@@ -1,0 +1,28 @@
+# Credentials and secrets
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
